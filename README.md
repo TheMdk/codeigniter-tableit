@@ -24,6 +24,7 @@ $userTable = $this->table->drawTable('myawesomemodel', 'getUsers', $params, $con
 ### Requirements
 * Codeigniter 3.x
 * Twitter Bootstrap 3.x
+
 That's it!
 
 ### How to use it
